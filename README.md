@@ -6,7 +6,7 @@ Windows 桌面取词词典，支持翻译、收藏、每日一词及昼夜外观
 
 ## 下载与启动
 
-下载 [WordDict.exe](../../raw/refs/heads/main/dist/WordDict.exe)，双击启动，无需安装 Python。可右键 EXE 创建桌面快捷方式。
+下载 [WordDict.exe](https://github.com/Asnkkzk/Dictionary/raw/refs/heads/main/dist/WordDict.exe)，双击启动，无需安装 Python。可右键 EXE 创建桌面快捷方式。
 
 - 再次启动会唤起已有主窗口。
 - 关闭主窗口后仍驻留托盘；右键词典托盘图标选择「退出」才会结束程序。
