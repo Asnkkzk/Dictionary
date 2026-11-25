@@ -1,0 +1,4 @@
+# 随取词典仅依赖以下库（Anaconda 已自带，普通 Python 需手动安装）
+pywin32
+Pillow
+requests
